@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159924202888",
+    "project_id": "mathuramchits",
+    "storage_bucket": "mathuramchits.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159924202888:android:c5b87388870dd5cccc5e3d",
+        "android_client_info": {
+          "package_name": "com.mathuram.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZGgMd1_Uw5ny1Lr9uXcZ5shY_9lxj2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
